@@ -55,5 +55,6 @@ process.on('SIGTERM', () => {
     17. Czym właściwie są Promise
     18. Przypomnieć sobie wykład o Embedded Documents i Reference  ?? To już chyba ogarnięte    
     19. Przypomnieć sobie ten debugger co używałem.
+    20. Co to jest branch w github?
     
 */
